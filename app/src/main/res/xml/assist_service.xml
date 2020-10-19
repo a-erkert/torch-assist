@@ -1,0 +1,9 @@
+<voice-interaction-service
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:recognitionService="io.erkert.torchassist.TorchAssistService"
+  android:sessionService="io.erkert.torchassist.TorchAssistSessionService"
+  android:supportsAssist="true"/>
+
+<!--
+  android:settingsActivity="com.android.test.voiceinteraction.SettingsActivity"
+-->
